@@ -1,0 +1,4 @@
+#设置环境，会自动链接到application-test.yml配置文件上
+spring:
+  profiles:
+    active: test
